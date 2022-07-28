@@ -30,3 +30,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+If the site does not update after a push, run:
+git commit --allow-empty -m "Trigger Rebuild"
